@@ -1,0 +1,19 @@
+{
+  "name": "json-seeder",
+  "version": "1.0.0",
+  "description": "A node application to create json seed data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunsaker/node-json-seeder.git"
+  },
+  "author": "Shaun Saker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaunsaker/node-json-seeder/issues"
+  },
+  "homepage": "https://github.com/shaunsaker/node-json-seeder#readme"
+}
