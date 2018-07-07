@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shaunsaker/node-json-seeder/issues"
   },
-  "homepage": "https://github.com/shaunsaker/node-json-seeder#readme"
+  "homepage": "https://github.com/shaunsaker/node-json-seeder#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
